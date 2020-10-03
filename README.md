@@ -1,5 +1,5 @@
 # stainesdani_project
-Web Scraping Project
+Web Scraping Project,
 V Daniel Staines, BE16B031
 
 The code for this project includes 3 javascript files that are uploaded here:
